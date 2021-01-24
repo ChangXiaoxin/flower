@@ -15,7 +15,7 @@
 | ------- | ----- |
 |TIM1	-ch1|  PA8  |
 
-# others
+# Others
 | Peripheral | Pin |
 | ---------- | --- |
 |Touch Sensor| PB10|
